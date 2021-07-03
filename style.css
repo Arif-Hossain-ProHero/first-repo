@@ -1,0 +1,16 @@
+body{
+    /* background-image: url("bg.jpg"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.palabiKoi{
+    color: green;
+    width: 30%;
+}
+.khaici{
+    background-color: pink;
+    color:black;
+    width: 80%;
+}
